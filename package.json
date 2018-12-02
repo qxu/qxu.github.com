@@ -3,15 +3,17 @@
   "description": "qxu.github.com",
   "version": "0.0.0",
   "author": "qxu <11jon111@gmail.com>",
+  "repository": "github:qxu/qxu.github.com",
   "dependencies": {
     "gatsby": "^2.0.19",
+    "gatsby-cli": "^2.4.6",
     "gatsby-plugin-feed": "^2.0.8",
     "gatsby-plugin-google-analytics": "^2.0.5",
     "gatsby-plugin-manifest": "^2.0.5",
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-sass": "^2.0.5",
     "gatsby-plugin-sharp": "^2.0.6",
-    "gatsby-plugin-typography": "^2.2.0",
     "gatsby-remark-copy-linked-files": "^2.0.5",
     "gatsby-remark-images": "^2.0.4",
     "gatsby-remark-prismjs": "^3.0.0",
@@ -21,12 +23,11 @@
     "gatsby-transformer-remark": "^2.1.6",
     "gatsby-transformer-sharp": "^2.1.3",
     "lodash": "^4.17.11",
+    "node-sass": "^4.10.0",
     "prismjs": "^1.15.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
-    "react-helmet": "^5.2.0",
-    "react-typography": "^0.16.13",
-    "typography": "^0.16.17"
+    "react-helmet": "^5.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
